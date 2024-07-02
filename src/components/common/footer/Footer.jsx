@@ -45,7 +45,7 @@ const Footer = () => {
         </div>
       </footer>
       <div className='legal'>
-        <span>© 2022 Mahasiswa Mikroskil IF2 A SORE.</span>
+        <span>© 2024 Mahasiswa Mikroskil IF2 B SORE.</span>
       </div>
     </>
   )
